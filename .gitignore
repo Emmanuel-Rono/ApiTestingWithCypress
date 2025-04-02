@@ -1,0 +1,16 @@
+# Ignore Node modules 
+node_modules/
+
+# Cypress generated screenshots & videos 
+cypress/screenshots/
+cypress/videos/
+
+# Cypress configuration cache
+.cache/
+.cypress_cache/
+
+# Ignore environment files 
+cypress.env.json
+
+# Logs and temporary files
+*.log
